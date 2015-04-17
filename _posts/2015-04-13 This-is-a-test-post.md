@@ -1,5 +1,5 @@
 ---
-layout: draft
+layout: post
 title: 5 Reasons Step Parenting Sucks
 ---
 # 5 reasons step parenting sucks
